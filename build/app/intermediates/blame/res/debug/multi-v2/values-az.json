@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/camdev005/Downloads/medicAssist/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/Users/camdev005/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8eaf755cc33e28b6d81aa41a6421b678/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Mon Oct 07 15:35:23 ICT 2019
+base.0=/Users/camdev005/Downloads/medicAssist/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

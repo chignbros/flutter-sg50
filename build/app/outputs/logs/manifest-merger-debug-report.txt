@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:url_launcher] /Users/camdev005/Downloads/medicAssist/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:sqflite] /Users/camdev005/Downloads/medicAssist/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/camdev005/Downloads/medicAssist/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter] /Users/camdev005/Downloads/medicAssist/build/webview_flutter/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/webkit-1.0.0.aar/376b21898a9156e0099c904e53187e05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8eaf755cc33e28b6d81aa41a6421b678/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b0a04666e4c5abef39c8572958bc5566/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3f552d439cbce217204400b8f6d417c3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [:url_launcher] /Users/camdev005/Downloads/medicAssist/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/camdev005/Downloads/medicAssist/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8eaf755cc33e28b6d81aa41a6421b678/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8eaf755cc33e28b6d81aa41a6421b678/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b0a04666e4c5abef39c8572958bc5566/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b0a04666e4c5abef39c8572958bc5566/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8eaf755cc33e28b6d81aa41a6421b678/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:11:9-29
+	android:icon
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:10:9-57
+activity#com.example.sg50.MainActivity
+ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml
+MERGED from [:url_launcher] /Users/camdev005/Downloads/medicAssist/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/camdev005/Downloads/medicAssist/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/camdev005/Downloads/medicAssist/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/camdev005/Downloads/medicAssist/build/sqflite/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/camdev005/Downloads/medicAssist/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/camdev005/Downloads/medicAssist/build/path_provider/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/camdev005/Downloads/medicAssist/build/webview_flutter/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/camdev005/Downloads/medicAssist/build/webview_flutter/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/webkit-1.0.0.aar/376b21898a9156e0099c904e53187e05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/webkit-1.0.0.aar/376b21898a9156e0099c904e53187e05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8eaf755cc33e28b6d81aa41a6421b678/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/8eaf755cc33e28b6d81aa41a6421b678/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b0a04666e4c5abef39c8572958bc5566/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/b0a04666e4c5abef39c8572958bc5566/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3f552d439cbce217204400b8f6d417c3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/camdev005/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3f552d439cbce217204400b8f6d417c3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/camdev005/Downloads/medicAssist/android/app/src/debug/AndroidManifest.xml:6:22-64
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/camdev005/Downloads/medicAssist/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/camdev005/Downloads/medicAssist/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/camdev005/Downloads/medicAssist/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/camdev005/Downloads/medicAssist/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-74
